@@ -91,6 +91,7 @@ read -p "Disable password authentication for the node $ip? (y/n) " yn
 
 sleep 1
 echo
+<<<<<<< HEAD
 	
 read -p "Change the standard port (22) to the specified one? (y/n) " yn
 	if [[ "${yn}" =~ ^(y|yes)$ ]]; then
@@ -169,3 +170,7 @@ fi
 
 echo
 echo "SSH setup completed"
+=======
+
+echo "SSH setup completed"
+>>>>>>> 31ff1448a8ecb0829adea389419675ecf869eaf2
