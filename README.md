@@ -59,4 +59,4 @@ Launching a server in a production environment or running a rented remote server
 
 ## License
 
-This project uses the [MIT]()
+This project uses the [MIT](https://github.com/sergeybezlepkin/ssh/tree/main?tab=MIT-1-ov-file#readme)
