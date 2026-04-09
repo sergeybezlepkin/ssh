@@ -44,15 +44,15 @@ done
 sleep 1
 echo
 
-if ping $ip > /dev/null 2>&1; then
-	echo "Node on $ip is accessible"
-else
-	echo "Node on $ip is unavailable"
-	sleep 2
-fi
+#if ping $ip > /dev/null 2>&1; then
+#	echo "Node on $ip is accessible"
+#else
+#	echo "Node on $ip is unavailable"
+#	sleep 2
+#fi
 
-sleep 1
-echo
+#sleep 1
+#echo
 
 while true; do
     read -p "Enter username for node $ip: " user
