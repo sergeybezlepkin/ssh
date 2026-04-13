@@ -25,7 +25,7 @@ Launching a server in a production environment or running a rented remote server
 
 ## Installation
 
-* Local machine running Windows, configuring it for a remote server running Linux
+## Local machine running Windows, configuring it for a remote server running Linux
 
 - Install [Git](https://git-scm.com/install/windows)
 - Launch Git Bash
@@ -34,8 +34,7 @@ Launching a server in a production environment or running a rented remote server
   ```
   git clone https://github.com/sergeybezlepkin/ssh.git && cd ssh && ./ssh.sh
   ```
-
-* Remote server running Linux, configuring it for a remote server running Linux
+## Remote server running Linux, configuring it for a remote server running Linux
 
 - Install [git](https://git-scm.com/install/linux)
 - Run a command in the terminal
